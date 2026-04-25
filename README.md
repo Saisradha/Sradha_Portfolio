@@ -88,7 +88,7 @@ npm run dev
 
 ## 🌍 Live Preview
 
-👉
+👉  https://sradha-portfolio.vercel.app/
 
 ---
 
